@@ -9,6 +9,7 @@ package config
 
 import (
 	"errors"
+	"github.com/golangunit/config/ini"
 	"github.com/golangunit/config/json"
 	"github.com/golangunit/config/toml"
 	"github.com/golangunit/config/xml"
